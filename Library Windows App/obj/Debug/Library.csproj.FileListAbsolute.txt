@@ -1,0 +1,235 @@
+E:\DataBaseProject\DataBaseProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+E:\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+E:\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.Shared.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\FlashControlV71.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\ShockwaveFlashObjects.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\DataBaseProject\DataBaseProject\bin\Debug\stdole.dll
+E:\DataBaseProject\DataBaseProject\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.AvailableBooks.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.CategorizeBooks.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.generateReports.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Home.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.InsertBook.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Login.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.queries.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.ReaderAuthorSignUp.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.AdminSignUp.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.SearchBook.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.BuyBook.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.UpdateProfile.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.WriteComment.resources
+E:\DataBaseProject\DataBaseProject\obj\Debug\Library.csproj.GenerateResource.cache
+E:\DataBaseProject\DataBaseProject\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\DataBaseProject\DataBaseProject\obj\Debug\Library.csproj.CopyComplete
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+E:\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\DataBaseProject.exe.config
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\DataBaseProject.exe
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\DataBaseProject.pdb
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.Shared.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\FlashControlV71.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\ShockwaveFlashObjects.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\bin\Debug\stdole.dll
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.AvailableBooks.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.CategorizeBooks.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.generateReports.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.Home.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.InsertBook.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.Login.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.queries.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.ReaderAuthorSignUp.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.AdminSignUp.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.SearchBook.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.BuyBook.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.UpdateProfile.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.WriteComment.resources
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\Library.csproj.CopyComplete
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.exe
+D:\Desktop\New folder\Library_20200371_20200147_20200569_20200145_20200200_20200467\Library Windows App\obj\Debug\DataBaseProject.pdb
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe.config
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.pdb
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Shared.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\FlashControlV71.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\ShockwaveFlashObjects.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\stdole.dll
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AvailableBooks.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.CategorizeBooks.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.generateReports.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Home.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.InsertBook.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Login.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.queries.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.ReaderAuthorSignUp.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AdminSignUp.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.SearchBook.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.BuyBook.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.UpdateProfile.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.WriteComment.resources
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CopyComplete
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.exe
+D:\Desktop\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.pdb
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe.config
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.pdb
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Shared.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\FlashControlV71.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\ShockwaveFlashObjects.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\stdole.dll
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AvailableBooks.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.CategorizeBooks.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.generateReports.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Home.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.InsertBook.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Login.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.queries.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.ReaderAuthorSignUp.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AdminSignUp.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.SearchBook.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.BuyBook.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.UpdateProfile.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.WriteComment.resources
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CopyComplete
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.exe
+D:\Downloads\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.pdb
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe.config
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.exe
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\DataBaseProject.pdb
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Shared.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\FlashControlV71.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\ShockwaveFlashObjects.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\bin\Debug\stdole.dll
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AvailableBooks.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.CategorizeBooks.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.generateReports.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Home.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.InsertBook.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Login.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.queries.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.ReaderAuthorSignUp.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.AdminSignUp.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.SearchBook.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.BuyBook.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.Properties.Resources.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.UpdateProfile.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.WriteComment.resources
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.GenerateResource.cache
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\Library.csproj.CopyComplete
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.exe
+E:\Second year - 2nd term\DataBaseProject\Team22_20200371_LibraryProject\Team22_20200371_LibraryProject\Library Windows App\obj\Debug\DataBaseProject.pdb
